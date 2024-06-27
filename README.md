@@ -54,8 +54,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityabarad&show_icons=true&theme=algolia" alt="GitHub Stats">
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=adityabarad.adityabarad" alt="Visitor Count">
-</p>
