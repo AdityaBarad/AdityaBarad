@@ -1,23 +1,38 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Aditya Barad 👋</h1>
+<h1 align="center">Hi, I'm Aditya Barad 👋</h1>
 
 <!-- Introduction -->
 <p align="center">
-  <strong>Dynamic and motivated Computer Science undergraduate at Government College of Engineering</strong>
+  <strong>Dynamic and motivated software developer</strong>
   <br>
-  Passionate about software development, with strong skills in Data Structures and Algorithms. Experienced in Java, Python, and C.
+  Passionate about coding, and software development. Experienced in multiple programming languages, Web development and creating software solutions.
   <br>
-  Thrives on teamwork and effective communication, always ready for new challenges in technology.
+Always eager to tackle new challenges in technology.
+</p>
+
+<!-- Portfolio and Resume -->
+<h2 align="center">Portfolio & Resume</h2>
+<p align="center">
+  <a href="link-to-portfolio"><img src="https://img.shields.io/badge/-Portfolio-9c27b0?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="link-to-resume"><img src="https://img.shields.io/badge/-Resume-ff5722?style=flat-square&logo=resume&logoColor=white" alt="Resume"></a>
 </p>
 
 <!-- About Me -->
-<h2 align="center">About Me</h2>
-<p align="center">
-  🎓 Studying Computer Science at Government College of Engineering<br>
-  🚀 Passionate about coding, problem-solving, and software development<br>
-  💼 Currently exploring opportunities and learning new technologies<br>
-  🌱 Open to collaborations and eager to contribute to innovative projects
-</p>
+<h2>About Me</h2>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 10px;">
+    📚 <strong>Continuous Learner:</strong> I thrive in environments where learning new technologies and adapting to industry trends are essential.
+  </li>
+  <li style="margin-bottom: 10px;">
+    💡 <strong>Problem Solver:</strong> I enjoy tackling complex challenges and finding innovative solutions through software development.
+  </li>
+  <li style="margin-bottom: 10px;">
+    🤝 <strong>Team Player:</strong> Collaborating with diverse teams to deliver robust software solutions is where I excel.
+  </li>
+  <li style="margin-bottom: 10px;">
+    💡 <strong>Passionate Innovator:</strong> My passion lies in creating impactful applications that improve user experiences and solve real-world problems.
+  </li>
+</ul>
 
 <!-- Connect with Me -->
 <h2 align="center">Connect with Me</h2>
@@ -53,4 +68,14 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityabarad&show_icons=true&theme=algolia" alt="GitHub Stats">
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityabarad&theme=flat&column=7" alt="Trophies">
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityabarad&style=flat-square" alt="Profile Views">
 </p>
