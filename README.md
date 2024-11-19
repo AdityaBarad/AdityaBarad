@@ -14,7 +14,6 @@ Always eager to tackle new challenges in technology.
 <h2 align="center">Portfolio & Resume</h2>
 <p align="center">
   <a href="link-to-portfolio"><img src="https://img.shields.io/badge/-Portfolio-9c27b0?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="link-to-resume"><img src="https://img.shields.io/badge/-Resume-ff5722?style=flat-square&logo=resume&logoColor=white" alt="Resume"></a>
 </p>
 
 <!-- About Me -->
